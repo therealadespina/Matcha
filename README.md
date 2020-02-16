@@ -4,11 +4,9 @@
 
 Matcha - This project is about creating a dating website (application).
  
-## INTRODUCE
+# INTRODUCE
 
-# Chapter I
-
-# Foreword
+## Chapter I
 
 This second millennium has forever changed and upheld the habits and manners of Internet. The choice is guided by technologies, and room for luck is increasingly smaller.
 Human relationships, seed of any modern society are increasingly created artificially by
