@@ -28,11 +28,11 @@ EXAMPLE()
 
 An example is shown above, but it works.
 
-## PROTOTYPING
+## PROTOTYPING (Application)
 
 ![Matcha](https://user-images.githubusercontent.com/49564849/74752851-5abf4f00-5280-11ea-9451-e16e382f537f.png)
 
-# Desktop
+## PROTOTYPING (Desktop)
 
 ![web](https://user-images.githubusercontent.com/49564849/74769280-302ebf80-529b-11ea-8aef-5f32b0f6d635.jpg)
 
