@@ -28,9 +28,9 @@ EXAMPLE()
 
 An example is shown above, but it works.
 
-## The results
+## PROTOTYPING
 
-
+![Matcha](https://user-images.githubusercontent.com/49564849/74752851-5abf4f00-5280-11ea-9451-e16e382f537f.png)
 
 ## Built With
 
