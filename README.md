@@ -43,4 +43,4 @@ An example is shown above, but it works.
 ## Authors
 
 * **Korotkov S.** - [therealadespina](https://github.com/therealadespina)
-* **Mischenko A.** - [mishalina](https://github.com/mishalina)
+* **Mishchenko A.** - [mishalina](https://github.com/mishalina)
